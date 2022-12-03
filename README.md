@@ -8,6 +8,8 @@
 - [Presentation YouTube](https://www.youtube.com/watch?v=sog4BxuX7Z4)
 - 프로젝트 배경
     - AI 기술을 활용한 작곡 서비스 제공을 위한 표절 가능성의 판단
+- 프로젝트 내용
+    - 방법마다 진행한 내용에 관해서는 각 폴더의 README 참고
 - 프로젝트 목표
     - 코드 진행 간의 유사도를 평가하는 metric의 개발
 - Dataset
@@ -16,7 +18,7 @@
     - [Github](https://github.com/POZAlabs)
 
 ## 구조 설명
-폴더의 자세한 내용은 폴더 내부의 README에 있습니다. 
+각 폴더별 자세한 내용은 폴더 내부의 README에 있습니다. 
 
 ### model
 1. mathematical approach
